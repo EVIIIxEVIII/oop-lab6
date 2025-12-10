@@ -1,0 +1,44 @@
+[
+  {
+    "arguments": [
+      "/usr/lib/ccache/c++",
+      "-I/home/alderson/Projects/Mine/labs/oop/lab6/inc",
+      "-I/home/alderson/Projects/Mine/labs/oop/lab6/third_party",
+      "-std=gnu++20",
+      "-c",
+      "-I",
+      "/usr/local/cuda/include",
+      "-I",
+      "/usr/local/cuda/include",
+      "-I",
+      ".",
+      "-o",
+      "CMakeFiles/lab5.dir/src/main.cpp.o",
+      "/home/alderson/Projects/Mine/labs/oop/lab6/src/main.cpp"
+    ],
+    "directory": "/home/alderson/Projects/Mine/labs/oop/lab6/build",
+    "file": "/home/alderson/Projects/Mine/labs/oop/lab6/src/main.cpp",
+    "output": "/home/alderson/Projects/Mine/labs/oop/lab6/build/CMakeFiles/lab5.dir/src/main.cpp.o"
+  },
+  {
+    "arguments": [
+      "/usr/lib/ccache/c++",
+      "-I/home/alderson/Projects/Mine/labs/oop/lab6/inc",
+      "-I/home/alderson/Projects/Mine/labs/oop/lab6/third_party",
+      "-std=gnu++20",
+      "-c",
+      "-I",
+      "/usr/local/cuda/include",
+      "-I",
+      "/usr/local/cuda/include",
+      "-I",
+      ".",
+      "-o",
+      "CMakeFiles/lab5.dir/src/spsc_queue.cpp.o",
+      "/home/alderson/Projects/Mine/labs/oop/lab6/src/spsc_queue.cpp"
+    ],
+    "directory": "/home/alderson/Projects/Mine/labs/oop/lab6/build",
+    "file": "/home/alderson/Projects/Mine/labs/oop/lab6/src/spsc_queue.cpp",
+    "output": "/home/alderson/Projects/Mine/labs/oop/lab6/build/CMakeFiles/lab5.dir/src/spsc_queue.cpp.o"
+  }
+]
